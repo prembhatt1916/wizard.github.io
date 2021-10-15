@@ -4217,7 +4217,7 @@ h3 {
 }
 @font-face {
   font-family: "GT America Standard";
-  src: url("https://assets.website-files.com/5f04dd60cf344a1e1952a8e5/60884aabe5cebf379ef13c05_GT-America-Standard-Medium.woff2")
+  src: url("../fonts/60884aabe5cebf379ef13c05_GT-America-Standard-Medium.woff2")
     format("woff2");
   font-weight: 500;
   font-style: normal;
@@ -4225,7 +4225,7 @@ h3 {
 }
 @font-face {
   font-family: "GT Walsheim Pro";
-  src: url("https://assets.website-files.com/5f04dd60cf344a1e1952a8e5/5f04dd7788031e30779be8e5_GT-Walsheim-Pro-Medium.woff")
+  src: url("../fonts/5f04dd7788031e30779be8e5_GT-Walsheim-Pro-Medium.woff")
     format("woff");
   font-weight: 500;
   font-style: normal;
@@ -4233,7 +4233,7 @@ h3 {
 }
 @font-face {
   font-family: "Inter";
-  src: url("https://assets.website-files.com/5f04dd60cf344a1e1952a8e5/5f04dda8de6c115b7d89627a_Inter-Regular.woff")
+  src: url("../fonts/5f04dda8de6c115b7d89627a_Inter-Regular.woff")
     format("woff");
   font-weight: 400;
   font-style: normal;
@@ -4241,7 +4241,7 @@ h3 {
 }
 @font-face {
   font-family: "Inter";
-  src: url("https://assets.website-files.com/5f04dd60cf344a1e1952a8e5/5f04dda8de6c110bdf89627b_Inter-Black.woff")
+  src: url("../fonts/5f04dda8de6c110bdf89627b_Inter-Black.woff")
     format("woff");
   font-weight: 900;
   font-style: normal;
@@ -4249,7 +4249,7 @@ h3 {
 }
 @font-face {
   font-family: "Inter";
-  src: url("https://assets.website-files.com/5f04dd60cf344a1e1952a8e5/5f04dda8839bf97ce3f394c4_Inter-SemiBold.woff")
+  src: url("../fonts/5f04dda8839bf97ce3f394c4_Inter-SemiBold.woff")
     format("woff");
   font-weight: 600;
   font-style: normal;
@@ -4257,7 +4257,7 @@ h3 {
 }
 @font-face {
   font-family: "Inter";
-  src: url("https://assets.website-files.com/5f04dd60cf344a1e1952a8e5/5f04dda8839bf97564f394c5_Inter-Thin.woff")
+  src: url("../fonts/5f04dda8839bf97564f394c5_Inter-Thin.woff")
     format("woff");
   font-weight: 100;
   font-style: normal;
@@ -4265,7 +4265,7 @@ h3 {
 }
 @font-face {
   font-family: "Inter";
-  src: url("https://assets.website-files.com/5f04dd60cf344a1e1952a8e5/5f04dda8c84aef845680256d_Inter-Light.woff")
+  src: url("../fonts/5f04dda8c84aef845680256d_Inter-Light.woff")
     format("woff");
   font-weight: 300;
   font-style: normal;
@@ -4273,7 +4273,7 @@ h3 {
 }
 @font-face {
   font-family: "Inter";
-  src: url("https://assets.website-files.com/5f04dd60cf344a1e1952a8e5/5f04dda8fcf136b9f9f6d14d_Inter-Bold.woff")
+  src: url("../fonts/5f04dda8580a6089f54ac761_Inter-Medium.woff")
     format("woff");
   font-weight: 700;
   font-style: normal;
@@ -4281,7 +4281,7 @@ h3 {
 }
 @font-face {
   font-family: "Inter";
-  src: url("https://assets.website-files.com/5f04dd60cf344a1e1952a8e5/5f04dda8580a6089f54ac761_Inter-Medium.woff")
+  src: url("../fonts/5f04dda8580a6089f54ac761_Inter-Medium.woff")
     format("woff");
   font-weight: 500;
   font-style: normal;
@@ -4289,7 +4289,7 @@ h3 {
 }
 @font-face {
   font-family: "GT America Standard";
-  src: url("https://assets.website-files.com/5f04dd60cf344a1e1952a8e5/5f320dd0e19ed9ab79db485b_GT-America-Standard-Light.woff")
+  src: url("../fonts/5f320dd0e19ed9ab79db485b_GT-America-Standard-Light.woff")
     format("woff");
   font-weight: 300;
   font-style: normal;
